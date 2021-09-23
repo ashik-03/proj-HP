@@ -1,0 +1,4 @@
+.box3{background-image: url("image/room.jpg");width: 100%;}
+#wrapper{position: relative;top: 0px;}
+.center{text-align: center;margin: auto;justify-content: center;margin-left: 690px;}
+.b_map{width: 100%;position: absolute;}
